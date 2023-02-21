@@ -18,6 +18,7 @@ license = {text = "MIT"}
 test = [
     "pytest>=7.2.1",
     "requests-mock>=1.10.0",
+    "pytest-cov>=4.0.0",
 ]
 
 [build-system]
