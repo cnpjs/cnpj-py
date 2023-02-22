@@ -5,7 +5,7 @@ usando a API do [cnpjs.dev](https://cnpjs.dev).
 
 ## Exemplo de uso
 
-Essa bilbioteca expõe uma classe chmada `CNPJClient` com um único método `cnpj` que
+Essa bilbioteca expõe a classe `CNPJClient` com um único método `cnpj` que
 recebe uma string contendo o CNPJ e retorna um dicionário com informações da
 empresa registrada nesse CNPJ.
 
