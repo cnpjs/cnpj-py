@@ -1,2 +1,6 @@
 .pdm.toml
 __pypackages__/
+__pycache__/
+.coverage
+coverage*
+junit
