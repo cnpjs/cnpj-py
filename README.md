@@ -165,7 +165,7 @@ Saída do exemplo acima:
 
 ## Documentação do endpoint HTTP
 
-Consulte a documentação completa da API em [https://cnpjs.dev/doc](https://cnpjs.dev/doc).
+Consulte a documentação completa da API em [https://cnpjs.dev/docs](https://cnpjs.dev/docs).
 
 ## Limites de uso
 
